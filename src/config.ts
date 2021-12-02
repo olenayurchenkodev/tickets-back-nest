@@ -1,0 +1,1 @@
+export const SK = 'sk_test_51K1qeXHdq0KWWsCrlSlZwRAtRWS7SJUqc6WFsCK76XZScE5on2lEFkI4gBPLdbw2vOnrv3T4Xk0xyDIBiVV2xDSQ00Byvd2Lwr'
